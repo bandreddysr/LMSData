@@ -18,7 +18,7 @@ namespace LMSAusDataApi.Controllers
 
         private static readonly string[] Subjects = new[]
         {
-            "Science", "Maths", "Social", "English", "Arts", "Languages"
+            "Science", "Maths", "Social", "English", "Arts", "Languages","Hindi"
         };
 
         private readonly ILogger<LMSQuestionsController> _logger;
